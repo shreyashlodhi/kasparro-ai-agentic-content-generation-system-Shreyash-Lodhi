@@ -1,0 +1,27 @@
+{
+  "page_type": "comparison",
+  "products": [
+    {
+      "name": "GlowBoost Vitamin C Serum",
+      "ingredients": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "benefits": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "price_inr": 699
+    },
+    {
+      "name": "PureAura C Boost",
+      "ingredients": [
+        "Vitamin C"
+      ],
+      "benefits": [
+        "Skin radiance enhancement"
+      ],
+      "price_inr": 799
+    }
+  ]
+}
